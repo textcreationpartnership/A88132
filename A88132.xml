@@ -1,0 +1,269 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The life and death of Sheffery ap Morgan, son of Shon ap Morgan</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88132</idno>
+            <idno type="STC">Wing L2009C</idno>
+            <idno type="STC">ESTC R43688</idno>
+            <idno type="EEBO-CITATION">42475098</idno>
+            <idno type="OCLC">ocm 42475098</idno>
+            <idno type="VID">151230</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88132)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151230)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2251:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The life and death of Sheffery ap Morgan, son of Shon ap Morgan</title>
+               </titleStmt>
+               <extent>[3], 14+ p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Deacon at the Angel in Guiltspur-street near New-Gate,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1683]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing (2nd ed.).</note>
+                  <note>Title page contains woodcut with four scenes.</note>
+                  <note>In ms. on t.p.: Bought at Oxon. 1688.</note>
+                  <note>Facing t.p., 1 p. containing: The distressed Welshman.</note>
+                  <note>Imperfect: all after p. 14 lacking in filmed copy; stained, tightly bound, and with print show-through.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>National characteristics, Welsh --  Humor.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151230:1"/>
+            <pb facs="tcp:151230:1" rendition="simple:additions"/>
+            <p>The LIFE and DEATH of <hi>Sheffery Morgan,</hi> Son of <hi>Shon ap Morgan:</hi>
+            </p>
+            <figure>
+               <head>ID</head>
+            </figure>
+            <p>Printed for <hi>J. Deacon</hi> at the Angel in <hi>Guiliſpur-ſtreet,</hi> near <hi>New-Gate.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:151230:2"/>
+            <pb n="1" facs="tcp:151230:2"/>
+            <head>The LIFE and DEATH of Sheffery <hi>ap</hi> Morgan.</head>
+            <div n="1" type="chapter">
+               <head>CHAP. I Of <hi>Sheffery</hi>'s Birth and Education.</head>
+               <p>THE Perſon we intend to inſiſt upon in this follow<g ref="char:EOLhyphen"/>ing Diſcourſe; is one <hi>Sheffery Morgan,</hi> who was born near <hi>Denby,</hi> a place eminently known in <hi>Wales:</hi> His Father being a Man of no ſmall account, kept two or three Hoggs, &amp; Brewed week for week the year round, half a peck of Malt: hur being a Man ſo well to paſs in the world, reſolved to bring up hur Son <hi>Sheffery</hi> Scholar-like; and in order thereunto put him to the greateſt School in thoſe parts, where he improved his time ſo well, that in ſix or ſeven years, he was able to Spell his own Name
+<pb n="2" facs="tcp:151230:3"/>with a ſmall matter of help. But not long after, hur fond Father ſuppoſed hur fir for the Vniverſity, and diſpoſed of hur accordingly; but <hi>Sheffery</hi> grew neg<g ref="char:EOLhyphen"/>ligent, unknown to hur Father, and minded more hur Waggiſh Paſtimes then hur ſerious Study; and hur Fa<g ref="char:EOLhyphen"/>ther ſuppoſing hur to be capable to ma<g ref="char:EOLhyphen"/>nage a Parſons place, took a Fatherly care of hur, and went to the Biſhop of that Dioceſs, making ſuit for a Bene<g ref="char:EOLhyphen"/>fice for hur, which was granted, provi<g ref="char:EOLhyphen"/>ded that hur ſhould Preach a Sermon of Approbation. Old <hi>Shon ap Morgan</hi> be<g ref="char:EOLhyphen"/>ing joyful of this anſwer from the Bi<g ref="char:EOLhyphen"/>ſhop, writ Poſt to her Son <hi>Sheffery,</hi> wiſh<g ref="char:EOLhyphen"/>ing hur with all ſpeed to come, for hur was likely to become a <hi>Welſh</hi> Parſon, and have a Benefice of <hi>40 <abbr>l.</abbr> per Annum.</hi> Theſe good Tydings ſo tickled the ear of our young Parſon, that hur amitted no opportunity, but took Horſe and rid full ſpeed to hur Fathers Houſe in <hi>Wales,</hi> who told hur all the matter in hand; but when hur heard that hur was to Preach before hur could have hur Mo<g ref="char:EOLhyphen"/>ney, hur knew not what to think on't.</p>
+               <p>The day appointed drawing nigh when <hi>Sheffery</hi> was to Preach, being ſenſible of hur inability, he knew n<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t what courſe
+<pb n="3" facs="tcp:151230:3"/>to take, or how her ſhould perform the Task impoſed upon hur; ſometimes hur thought to flye from the preſence of the Biſhop and hur Father both, and then contradicted that thought with this re<g ref="char:EOLhyphen"/>ſolution, That if he could not do as well as he ſhould, that he would do as well as he could; So the day being come, <hi>Sheffery</hi> lay ſomewhat long a Bed, and ſeemed to have ſmall ſtomach to his new Concern; which hur Father perceiving, ſtept up to give hur a call, telling hur the Saints Bell had rung in: O Father, ſaid hur. I am in a brown Study, look Father upon the top of Mr. <hi>Quibus</hi> his Houſe, and behold a Cow-Tuts that lies there; and I have been ſtudying how to might be; whether the top of; the Houſe came down to the Cow, or whether the Cow went up to the top of the Houſe! O fie Son, this is idle Diſcouſe, come make haſt, for it draws near ten a Clock, the Biſhop and the people begin to think you long. Well, Father, I have but a ſhort Sermon to make, but it is ſuch a Tickler as has not been Preached at your Church ſince you came to the Pa<g ref="char:EOLhyphen"/>riſh. Well, Son, I ſhall leave that to your judgment. <hi>Sheffery</hi> no ſooner en<g ref="char:EOLhyphen"/>ters the Church, but he ſteps into the
+<pb n="4" facs="tcp:151230:4"/>Pulpit, and begins as followeth.</p>
+               <p>Good People all, hur knows there is ſomething expected from hur by way of Diſcourſe, and ſeeing we are all met to<g ref="char:EOLhyphen"/>gether, take this following matter as an undeniable Truth.</p>
+               <p>
+                  <hi>There are ſome Things that I know and you know not; and there are ſome Things that you know, and I know not; and there are ſome Things that neither I nor you know.</hi>
+               </p>
+               <p>For thus; <hi>As I went over a Stile I tore my Breeches,</hi> that I know, and you know not; <hi>but what you will give me towards the mending of them,</hi> that you know, and I know not; <hi>but what the Knave the Taylor will have for mending them,</hi> that neither you nor I know.</p>
+               <p>The Biſhop hearing ſuch a ſtrange <hi>Welſh</hi> diſcourſe deliver'd as a Sermon, fell into ſuch a laughter, that he laugh<g ref="char:EOLhyphen"/>ed himſelf into a Looſeneſs, that he was forced to carry his Arſe under his Arm ever; after and Old <hi>Shon ap Morgan</hi> fell into ſuch a paſſion, that hur ſolemnly proteſted, hur would Diſ-inherit hur Son <hi>Sheffery.</hi>
+               </p>
+            </div>
+            <pb n="5" facs="tcp:151230:4"/>
+            <div n="2" type="chapter">
+               <head>CHAP. II. How <hi>Sheffery Morgan</hi> Travelled from hur Fathers Houſe towards <hi>London,</hi> and how he fell in Company with two of his Country-men, who were driving a Drove of Welſh Cattel to <hi>Smithfield;</hi> and what fell out in the ſharing of their Money.</head>
+               <p>
+                  <hi>SHeffery</hi> Travelled the Road, having but a ſmall Sum of Money in his Purſe, fell into ſerious Cogitations, ſometimes calling to mind the pleaſant paſtimes he met with when he was at the Vniverſity; and then thinking on his preſent miſery, that thoſe vain plea<g ref="char:EOLhyphen"/>ſures had brought him to: And while he remained in this diſconſolate humour, two of his Country-men overtook him with a great Drove of <hi>Welſh</hi> Cattel; to whom he ſaid, Whether are you going; who anſwer'd We are Drovers going to <hi>Smithfield</hi>-Market, but we greatly want one to help us, then <hi>Sheffery</hi> asked them what they were to have for their pains? who anſwered a Shilling: he concluding that he was going to the ſame City, thought ſomething better then nothing, ſo he joyn'd with them, and as they Tra<g ref="char:EOLhyphen"/>velled hard, at laſt they came to <hi>Smith<g ref="char:EOLhyphen"/>field,</hi>
+                  <pb n="6" facs="tcp:151230:5"/>where the owner gave them a whole Shilling; then was their care how to part this one piece equally amongſt them three: <hi>Sheffery</hi> being ingenious, ſaid, We'l go ſhange it for three Groats, to which they conſented, ſo going from ſtreet to ſtreet, at laſt they came to <hi>Lombard<g ref="char:EOLhyphen"/>ſtreet,</hi> where <hi>Sheffery</hi> ſpyed a Tray full of Groats, and try'd, here hur ſhall do it if ever: The Gentleman of the ſhop being at dinner, the Hatch was ſhut, and no body in the ſhop but an old Iackanapes, chained upon the Counter; <hi>Sheffery</hi> lea<g ref="char:EOLhyphen"/>ning over the Hatch, ſaid, <hi>Good Sir, will you give me three Groats for a Shilling?</hi> &amp; held the ſhilling forth, which the Iacka<g ref="char:EOLhyphen"/>napes took, and put it down into the place, where he uſed to ſee his Maſter; put money, and minding <hi>Sheffery</hi> no more but hur was very urgent with the Iackanapes for hur ſhange, and ſaid, Good Sir, what does hur intend to do? will hur give hur three groats for hur ſhilling or no? hur the Iackanapes not minding, ſtirred up hur <hi>Welſh</hi> plood, ſcaring that the Old Shentleman was minded to ſheat them, which cauſed to make a great Crowd a<g ref="char:EOLhyphen"/>bout the door, ſo that the Gentleman of the Houſe heard them, and coming into the Shop to ſee what was the matter,
+<pb n="7" facs="tcp:151230:5"/>began to be rough with them, doubting they intended to rob his Shop, but they tryed out, they were poor <hi>Welſhmen,</hi> that thought no hurt, but deſired to have three Groars for a Shilling: The Gentleman finding them to be poor igno<g ref="char:EOLunhyphen"/>rant Fellows, asked them for their ſhil<g ref="char:EOLhyphen"/>ling; they replyed they had given it to hur aged Father (pointing to the Iacka<g ref="char:EOLhyphen"/>napes) The Gentleman in great wrath, cry dout, You Uillains, do you think I am the Son of a Iackanapes? and threatned to ſet them by the Heels; but diſcovering their ſimplicity, asked them what the Iackanapes did with it? quoth they, he put it into that Hole: ſo he ſup<g ref="char:EOLunhyphen"/>poſed it might be, gave them <hi>3</hi> Groats, bidding them be gone; ſo away they went, <hi>Sheffery</hi>'s Countrey-men to their places provided for them, but <hi>Sheffery</hi> had his Fortune to ſeek.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>CHAP. II. How <hi>Sheffery</hi> being weary of <hi>London,</hi> and ſhort of Money, took a Journey toward the North; and how he got the good Will of a Sow, which prov'd the firſt riſe of <hi>Sheffery's</hi> Fortune.</head>
+               <p>
+                  <hi>SHeffery</hi> being forſaken of hur Country men, &amp; almoſt moneyleſs, wandred too
+<pb n="8" facs="tcp:151230:6"/>and fro feaſting hur Eyes, but ſtarving hur Belly, reſolved to travel farther to<g ref="char:EOLunhyphen"/>wards the <hi>North:</hi> hur had not gone above <hi>20</hi> miles, but hur was ſurprized by the diſmol Night, and being unacquainted with the way, loſt hur ſelf, and wandred up and down, till at laſt hur hapned up<g ref="char:EOLunhyphen"/>on a ſmall Cotrage, and knocking at the door, he asked how for it might be to the next Town? the Old Man anſwered, he was far from any Town or Houſe ex<g ref="char:EOLunhyphen"/>cept his: then <hi>Sheffery</hi> craved for Enter<g ref="char:EOLunhyphen"/>tainment for that night; but the old man replyd, he had no convenience, but hur preſſed hard for Lodging; ſo the did man ſaid, I have no place for you, except you will lye with our old Sow; with all hur heart, quoth <hi>Sheffery.</hi> This being agreed on, they went to their Bed, and <hi>Sheffery</hi> to the Hog-ſtye, which ioyned to the Houſe, near the Did Man and Wontans Beds-head: <hi>Sheffery</hi> having but a ſorry Lodging and a turbulent Bedfellow, took no reſt at all: the old man and wo<g ref="char:EOLunhyphen"/>man waking about midnight, fell in diſ<g ref="char:EOLunhyphen"/>courſe, quoth the old Woman, Husband, what if the young man ſhould fall in love with our Sow, and forthwith get her good-will to be Married? Who, quoth the old Man, ſhould be againſt her Pre<g ref="char:EOLunhyphen"/>ferment,
+<pb n="9" facs="tcp:151230:6"/>if they like eath other? Ah! but Husband, ſhe hath been a good Old Servant to us, and if ever ſhe goes, I hope you will beſtow ſomething with her: Well, well, Wife, I ſhan't be backward, but ten or twenty pound I will beſtow if the Man be deſerving. <hi>Sheffery</hi> minding their Diſcourſe, aroſt and went into a Carrot field near by, and pull'd ſome up, and brought them to the Sow, giving her plentifully to eat, then tyed the reſt about his middle, underneath his Coat: &amp; going into the houſe to return thanks for his nights Lodging, the Sow having taſted the ſweetneſs of the Carrats, can'd as though ſhe would have torn down the Stye, longing for more Carrots, the old Woman hearing the Sow to rave, cry'd out to her Husband, What is the matter with our Sow? Quoth <hi>Sheffery,</hi> hur can tell beſt what is the matter; for hur and I have made a match to be Marry'd, and now ſhe finding me to be gone without her, cauſeth her to rave in this ſort: The old Woman runs with ſpeed to her. Hus<g ref="char:EOLhyphen"/>band, and ſaid, Curs hobby Husband, I told you our Sow is in Love with the Young Man. Ah! but quoth he, that muſt be farther try'd, i'le ſee firſt whether ſhe will follow him ſooner then another;
+<pb n="10" facs="tcp:151230:7" rendition="simple:additions"/>and ſetting her out, ſhe ran directly at him, and taking hold on him, as if ſhe l<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ved him above others; the Did Man ſeeing this, was much ſatisfied, and called <hi>Sheffery</hi> in, and laid him down <hi>20</hi> pound, wiſhing them much joy together: This being done, <hi>Sheffery</hi> took hur leave of the old people and went hur way, by the ſmell of the Carrots the Sow follow<g ref="char:EOLhyphen"/>ed him, which the old Woman ſpying, ſhe cry'd out, Come hither Miſtreſs Bride, pray ſtay and take my beſt hat with you, which ſhe did, and look'd like Mother <hi>Shtpion</hi> with her long Noſe.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>CHAP. IV. How <hi>Sheffery</hi> was robbed of hur 20 pound, and how hur ſerv'd the Thief that rob'd hur.</head>
+               <p>
+                  <hi>SHeffery</hi> wandring farther, came into an uncough Lane, and there met with a High-way-man, well mounted and arm<g ref="char:EOLhyphen"/>ed, who faſtning his eyes upon <hi>Sheffery,</hi> ſuppoſed there was money in the caſe, and welcomed hur with the uſual word <hi>Stand: Sheffery</hi> finding it was in vain to diſpute, ſoon yielded up his Purſe, the only thing the Thief-deſired, and ſetting ſpurs to his Horſe, away he rid full ſpeed, leaving <hi>Sheffery</hi> much lighter than
+<pb n="11" facs="tcp:151230:7"/>he found him: <hi>Sheffery</hi> much troubled, went on with a light purſe, but a heavy heart, and that night wanting money, Lodged in a Barn: Not long after, <hi>Sheffery</hi> ſitting on the brink of a drawing Well, near the High-way ſide, diſtant from any Houſe; and troubling at the croſſes which happened to him, fell into a paſſion, and whilſt he was in this A<g ref="char:EOLhyphen"/>gony, he which robbed him, hapned to came by, <hi>Sheffery</hi> minding him, knew him tho' he knew not <hi>Sheffery,</hi> but asked him what was the cauſe of his ſorrow? who anſwered, that he had let a bag of Money fall into the Well. At this the Thief ſeem'd forrowful, &amp; ſaid, he would pull off his Cloaths and you ſhall let me down into the Well, &amp; when I have found the Money. I'll call you to pull me up again: <hi>Sheffery</hi> was well pleaſed at this, ſo off comes the Chiefs apparel, and in<g ref="char:EOLhyphen"/>to the Bucket he gets, while <hi>Sheffery</hi> was very ready to ſet him down; which done, hur ſeeing the Road clear, and the Thief ſafe where be could not come out without help, now is the time, thought <hi>Sheffery,</hi> to deceive the deceiver; ſo pulling off his old Jerkin, by reaſon he could not de<g ref="char:EOLunhyphen"/>ſcribe him by his Apparel, throws it down into the Well, then mounted his
+<pb n="12" facs="tcp:151230:8"/>Horſe and rid full ſpeed night and day, till he and the Well were <hi>60</hi> miles aſun<g ref="char:EOLhyphen"/>der; and then adventured to open his Portmantle, where he found <hi>300</hi> pound of money, his own <hi>20</hi> pound being part thereof; where we will now leave him and diſcourſe ſomething of the Thief which <hi>Sheffery</hi> left to ſearth for that Mo<g ref="char:EOLhyphen"/>ney in the Well which never was there. The Chief finding himſelf thus deceived and ſo trapann'd, that he could no ways help himſelf, was forced to continue in the Bucket, to ſafe his ſweet Life; and at laſt an Old Woman coming from the next Town to draw Water; as ſhe was winding up, ſeeing ſuch a ſtrange Beaſt in the Bucket, was ſhrewdly affrighted, for he ſtared like a dead Pig on a Market-Womans Stall; the Wo<g ref="char:EOLhyphen"/>man being half dead with fear, in a lit<g ref="char:EOLhyphen"/>tle time recovered her ſenſes, and made ſhift to get to the Town, where ſhe declared how ſhe was frighted at the Well; they asked what it might be; who replyed, ſhe dared not to ſtay to look on't, but without doubt it muſt be the Devil, and therefore let us all go forth with what Weapons we can get, and deſtroy him, who would deprive us of the Priviledge of the Well, and hath
+<pb n="13" facs="tcp:151230:8"/>taken poſſeſſion of the Bucket: ſo the reſt of the old Women and Men reſolved to fight for their Priviledge, and armed themſelves with ſuch Weapons as they could get, the Men with Pirch-Forks and Clubs, and ſuch like, the Women with Diſtaffs, and ſwore by their Maid<g ref="char:EOLhyphen"/>en-heads, he ſhould never eſcape their fu<g ref="char:EOLhyphen"/>ry, ſo they drew themſelves up into a Bo<g ref="char:EOLhyphen"/>dy, and made <hi>Old Stump</hi> the <hi>Tooth-Draw<g ref="char:EOLhyphen"/>er,</hi> their Captain, and the Gid Woman that brought the tydings, his Second: along they married till they came to the Well, then ſetting themſelves in order to oppoſe him, when he ſhould come out; none ſo valiant as <hi>Old Stump,</hi> who went up to the Well to beat him out of his Harbour, where he found him fitting in the Bucket, as the Did Woman had told before; and darwing of him out of the Well, he was ſo amazed to ſee ſo many old Men and women, inſomuch that he ſtrove to run for his Life, but they ſo purſued him, and ſo laid on, that they ſoon ended his days, and gave a great ſhout, for joy that they had killed the Devil.</p>
+               <p>Now let us return to <hi>Sheffery Morgan,</hi> where we left him, taking an account of the Money he found in the Chiefs
+<pb n="14" facs="tcp:151230:9"/>Portmantle, who beholding this great ſumm of Money, reſolved if he could to raiſe his Fortune, and get him a handſome young Woman to his Wife, to the end that he might reap the full enjoyment of his Youth, ſo he took up his Lodging at the ſign of the Vnicorn, where he had not long lain, but he walked forth one day to recreate him<g ref="char:EOLhyphen"/>ſelf in the Fields, where by meer ac<g ref="char:EOLhyphen"/>cident, he lit of a young Gentleman, whoſe Name was <hi>Pantillo,</hi> who had formerly been Fellow-Student with him at <hi>Cambridge,</hi> and wondring to meet <hi>Sheffery</hi> in thoſe parts, asked him where he lived? he told him that he Lodged at the <hi>White-Horſe</hi> with the <hi>Barbers-Pole</hi> in his Forehead, here in this Town. Quoth <hi>Pantillo,</hi> I live about Ten Miles hence, and came hither a<g ref="char:EOLhyphen"/>bout Buſineſs, and I ſhould be glad to Drink one Cup of this Countrey Liquor with you: with all my heart, quoth <hi>Sheffery,</hi> and we'll go to my Lodg<g ref="char:EOLhyphen"/>ing: So on they went until they came to the Sign of the Vnicorn, where they Houſed, and <hi>Pantillo</hi> Laughed heartily at the New-Faſhioned Horſe: But as they were Diſcourſing toge<g ref="char:EOLhyphen"/>ther, <hi>Sheffery</hi> unfolded the ſecrets of <gap reason="missing" extent="2 pages">
+                     <desc>〈2 pages missing〉</desc>
+                  </gap>
+                  <pb n="17" facs="tcp:151230:9"/>keepers in the Country gives ſuch a Crack, which makes ſuch a ſound in the <hi>Londoners</hi> ears, that they are the worſe for it a great while afterwards.</p>
+               <sp>
+                  <speaker>Conſ.</speaker>
+                  <p>Honeſt <hi>Plain-dealing,</hi> I am wil<g ref="char:EOLhyphen"/>ling to take thy advice, and ſee the Country once more: and now every thing is ſo plentiful, we will ſee what entertainment thee and I ſhall have, I'le ſtay <hi>Bartholomew-Fair</hi> at <hi>London,</hi> and thou to <hi>Sturbridge,</hi> and ſo to <hi>York<g ref="char:EOLhyphen"/>ſhire,</hi> for there I had uſed to be much re<g ref="char:EOLhyphen"/>garded among them.</p>
+                  <p>Good Ale is the deareſt penniworth there; for Victuals will coſt you little or nothing if you be a Good fellow.</p>
+                  <p>But honeſt Brother, prithee let me give thee ſome inſtructions in your tra<g ref="char:EOLhyphen"/>vel: and I would deſire ſome of yours, for where you are, bid them remember me.</p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <hi>Plain.</hi> 
+                  </speaker>
+                  <p>Well I will, and now tell me what I ſhall do; for <hi>Plain-dealing</hi> muſt be rul'd by <hi>Conſcience,</hi> and <hi>Conſcience</hi> by <hi>Plain-dealing:</hi> for he that uſeth one, muſt uſe the other.</p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <hi>Conſ.</hi> 
+                  </speaker>
+                  <p>Firſt bid the Shop-keepers and Sales-men there provide them light Shops and not dark Rooms, whereby
+<pb n="18" facs="tcp:151230:10"/>to deceive their Cuſtomers, to make them to take old cloaths inſtead of new, and courſe cloath inſtead of fine. And bid the whole ſail-men ſell good penni-worths to their Cuſtomers.</p>
+                  <q>
+                     <l>And when they truſt them not to take too much gains.</l>
+                     <l>For fear they get nought but Ink and Paper for their pains.</l>
+                  </q>
+                  <p>And pray bid all Trades-men here, have a care of lying, for it may be they dare not Swear for fear they are made to pay for't; and bid their Cuſtomers not believe them, when they ſay they loſe by their Commodities, or get no<g ref="char:EOLhyphen"/>thing by them, for ſuch as thoſe wi<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l cheat them moſt; and pray invite all the honeſt Horſe-courſers in every Fair you come to (that make much of <hi>Con<g ref="char:EOLhyphen"/>ſcience</hi> and <hi>Plain-dealing,</hi> and never uſe Swearing nor lying) bid them to Din<g ref="char:EOLhyphen"/>ner, but to be ſure do not provide too much Victuals, for fear your company be ſo ſmall, that you muſt be glad to eat it your ſelf: and bid the Bakers remember me, and tell them you are a friend of mine, and muſt take notice of ſuch as love not <hi>Conſcience</hi> and <hi>Plain-dealing,</hi> bid them all remember thee &amp;
+<pb n="19" facs="tcp:151230:10"/>I; and tell them the Fair would be a great deal the better (and all fairs and Markets elſe) if they would make uſe of <hi>Conſcience</hi> and <hi>Plain-dealing</hi> in their buying and ſelling, and not uſe falſe Weights and Meaſures, and deceitful<g ref="char:EOLhyphen"/>neſs in their Trading; for light gains, and quick ſale, will make a heavy purſe.</p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <hi>Plain.</hi> 
+                  </speaker>
+                  <p>Well Brother <hi>Conſcience,</hi> I intend to follow thy directions; &amp; pre<g ref="char:EOLhyphen"/>thee where thou goeſt bid them remem<g ref="char:EOLhyphen"/>ber me: and let not Shop-keepers and Trades men uſe double-dealing ſo much as they do, nor keep but one ſort of Weights and Meaſures to Buy and Sell by; and let them turn out Hypo<g ref="char:EOLhyphen"/>criſie out of their Shops, for a great many keeps him to be the Fore-man of the Shop inſtead of <hi>Conſcience,</hi> and ſo have deceived the people; But I hope we ſhall diſcover them all, for the peo<g ref="char:EOLhyphen"/>ple begin to find them out already: For indeed, and Forſooth, and intruth they have cheated many an honeſt man: Not an Oath but as many Lyes as you pleaſe: I adviſe all to have a care of them, and not deal with any, if you know them to be ſuch: For he that will Swear, will Lye, and he that will Lye
+<pb n="20" facs="tcp:151230:11"/>would Swear too, if it were not in hopes to couzen you the more by his ſmooth Tongue.</p>
+                  <p>Pray remember me to all the honeſt Inns and Ale-houſes in your Travels that uſeth <hi>Conſcience</hi> and <hi>Plain-dealing</hi> to their Gueſts, and tell them they will be ne'r the poorer for entertaining <hi>Con<g ref="char:EOLhyphen"/>ſcience.</hi> Indeed in the North-parts, and eſpecially in <hi>York-ſhire,</hi> they did uſe ſome Conſcence formerly, therefore I hope you will find ſome entertainment there.</p>
+                  <p>Remember me to all our Friends at <hi>Shefield,</hi> and bid the Cutlers there not Glate their Knives ſo much as they do, nor <hi>Bromigom</hi> neither, for they leave ſo little Steel on them, that when they are uſed a while, the heat of the Meat melts all the Steel away: There is a place called <hi>Cuckolds-Haven</hi> near <hi>She<g ref="char:EOLhyphen"/>field,</hi> where I heard the Hoſt of the houſe formerly deal ſo much with that Ware, and had ſo much Credit of his Dealers in <hi>Shefield,</hi> ſore againſt their Wills, he hath now built him this place called <hi>Cuckolds-Haven;</hi> which by report coſt his dealers three hundred pounds the Building; but good Brother <hi>Con<g ref="char:EOLhyphen"/>ſcience</hi>
+                     <pb n="21" facs="tcp:151230:11"/>come not there: for he'l turn you out of doors; for by report he never knew you in his life, and he cares not for ſtrangers.</p>
+                  <q>
+                     <l>'Tis the trick of a Knave, you'l ſay 'tis pitty.</l>
+                     <l>Knaves ſhould flouriſh ſo in Town and City.</l>
+                  </q>
+                  <p>Pray Brother <hi>Conſcience</hi> bid the Clo<g ref="char:EOLhyphen"/>thiers in <hi>Yorkſhire</hi> to bring as much Cloath as they can in the Summer, while the weather is dry, but let them give good meaſure when they ſell it, and perſwade the People that buys it, to take enough, for fear they ſhould find none to match it when 'tis ſhrunk.</p>
+                  <p>And pray adviſe all country-men and Women that comes to Markets and Fairs, to have a care how that they part from their Money; and let them not part from it to them that will take it at a venture, and never tell it, for then they will have nothing for it, but trou<g ref="char:EOLhyphen"/>ble to find it again.</p>
+                  <p>And pray let all Country-men, and others, when they are merry, and in drink, have a care of Gaming, for fear they meet with a diſh of Rooks that will be ſaucy, they will not be able to
+<pb n="22" facs="tcp:151230:12"/>digeſt them in a good while after.</p>
+                  <p>And I would adviſe Young-men to have a care of their Pockets, and Maids have a care of their Plackets, for when the drink is in, the wit is out; for both many have ſower Sauce to their ſweet meat; if they have not a care.</p>
+                  <p>And in the next place I adviſe all, let them be rich or Poor, Old or Young, to hate Swearing and Lying, Couzening and Cheating, Quarreling and Fight<g ref="char:EOLhyphen"/>ing, do as they would be done by, keep a good Conſcience, and love plain-dealing.</p>
+                  <q>
+                     <l>Let a Man be Honeſt, Juſt, and Fair,</l>
+                     <l>Then what he goes he need not care.</l>
+                     <l>So once more we are reſolved to ſee;</l>
+                     <l>Where <hi>Conſcience</hi> and <hi>Plain-dealing</hi> beſt entertained may be.</l>
+                     <l>And when we have gone our Circuit round.</l>
+                     <l>We'l tell you where <hi>Conſcience</hi> and <hi>Plain-dealing</hi> may be found.</l>
+                     <l>So farewel till we do meet again.</l>
+                     <l>For <hi>Conſcience</hi> and <hi>Plain-dealing,</hi> 'mongſt ſome doth ſtill remain.</l>
+                  </q>
+               </sp>
+            </div>
+         </div>
+         <div type="postscript">
+            <pb n="23" facs="tcp:151230:12"/>
+            <head>The Authors Advice.</head>
+            <p>VVEll, Honeſt Men and women either in Country or City, let me like a friend, adviſe you to take no<g ref="char:EOLhyphen"/>tice of what you have heard in this Book, and be not angry if <hi>Conſcience</hi> and <hi>Plain-dealing</hi> hath told you of ſome of your Faults; if you are wiſe you will ſeek to amend them, and not like a gaul'd Horſe kick and wince when you are rub'd: And though it be a Proverb amongſt many, that <hi>Conſcience</hi> is Hang'd, &amp; he that loveth <hi>Plain-dealing.</hi>
+            </p>
+            <q>
+               <l>You tell thoſe knaves where you do them ſee,</l>
+               <l>That <hi>Conſcience</hi> is not hang'd, though loſt with them he be:</l>
+               <l>And though <hi>Plain-dealing</hi> dies a Beg<g ref="char:EOLhyphen"/>gar, as ſome ſay,</l>
+               <l>He gains at laſt, though here he looſe the day.</l>
+               <pb n="24" facs="tcp:151230:13"/>
+               <l>Some grows Rich, and ſome grows poor, </l>
+               <l>Some gets houſes ſome turn'd out of door: </l>
+               <l>Some gets by ſwearing, cheating, and lying, </l>
+               <l>And ſome gets eſtates without any buying, </l>
+               <l>But he that loves <hi>Conſcience</hi> and <hi>Plain-dealing</hi> too.</l>
+               <l>To live in theſe times he'l have much ado. </l>
+               <l>So fare you well, my name begins with <hi>C.</hi>
+               </l>
+               <l>A friend to <hi>Conſcience</hi> and <hi>Plain-deal<g ref="char:EOLhyphen"/>ing</hi> whereſoe're they be.</l>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>
+               <hi>Licenced and Entred accord<g ref="char:EOLhyphen"/>ding to Order.</hi>
+            </p>
+            <pb facs="tcp:151230:13"/>
+         </div>
+      </back>
+   </text>
+</TEI>
